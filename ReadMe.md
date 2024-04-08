@@ -124,8 +124,10 @@ Continent :: [[Europe]]
 Capital :: [[Andorra]]  
 [Alcohol-l::15.5] 
 [Language-Id::] 
-[geo-lon::1.51333] 
-[geo-lat::42.5167] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::1.51333] 
+[has_place_latitude::42.5167] 
 
 
 
