@@ -41,15 +41,17 @@ markerFolder: ./Escaldes-Engordany/
 
 ## Confidential Links & Embeds: 
 
-### [Escaldes-Engordany.public](/_public/\Earth\Continent\Europe\Europe~South\Andorra\Counties~AndorraEscaldes-Engordany.public.md) 
+### [Escaldes-Engordany](/_Standards/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Escaldes-Engordany.md) 
 
-### [Escaldes-Engordany.internal](/_internal/\Earth\Continent\Europe\Europe~South\Andorra\Counties~AndorraEscaldes-Engordany.internal.md) 
+### [Escaldes-Engordany.public](/_public/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Escaldes-Engordany.public.md) 
 
-### [Escaldes-Engordany.protect](/_protect/\Earth\Continent\Europe\Europe~South\Andorra\Counties~AndorraEscaldes-Engordany.protect.md) 
+### [Escaldes-Engordany.internal](/_internal/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Escaldes-Engordany.internal.md) 
 
-### [Escaldes-Engordany.private](/_private/\Earth\Continent\Europe\Europe~South\Andorra\Counties~AndorraEscaldes-Engordany.private.md) 
+### [Escaldes-Engordany.protect](/_protect/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Escaldes-Engordany.protect.md) 
 
-### [Escaldes-Engordany.personal](/_personal/\Earth\Continent\Europe\Europe~South\Andorra\Counties~AndorraEscaldes-Engordany.personal.md) 
+### [Escaldes-Engordany.private](/_private/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Escaldes-Engordany.private.md) 
 
-### [Escaldes-Engordany.secret](/_secret/\Earth\Continent\Europe\Europe~South\Andorra\Counties~AndorraEscaldes-Engordany.secret.md)
+### [Escaldes-Engordany.personal](/_personal/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Escaldes-Engordany.personal.md) 
+
+### [Escaldes-Engordany.secret](/_secret/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Escaldes-Engordany.secret.md)
 

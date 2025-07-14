@@ -41,15 +41,17 @@ markerFolder: ./La_Massana/
 
 ## Confidential Links & Embeds: 
 
-### [La_Massana.public](/_public/\Earth\Continent\Europe\Europe~South\Andorra\Counties~AndorraLa_Massana.public.md) 
+### [La_Massana](/_Standards/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/La_Massana.md) 
 
-### [La_Massana.internal](/_internal/\Earth\Continent\Europe\Europe~South\Andorra\Counties~AndorraLa_Massana.internal.md) 
+### [La_Massana.public](/_public/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/La_Massana.public.md) 
 
-### [La_Massana.protect](/_protect/\Earth\Continent\Europe\Europe~South\Andorra\Counties~AndorraLa_Massana.protect.md) 
+### [La_Massana.internal](/_internal/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/La_Massana.internal.md) 
 
-### [La_Massana.private](/_private/\Earth\Continent\Europe\Europe~South\Andorra\Counties~AndorraLa_Massana.private.md) 
+### [La_Massana.protect](/_protect/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/La_Massana.protect.md) 
 
-### [La_Massana.personal](/_personal/\Earth\Continent\Europe\Europe~South\Andorra\Counties~AndorraLa_Massana.personal.md) 
+### [La_Massana.private](/_private/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/La_Massana.private.md) 
 
-### [La_Massana.secret](/_secret/\Earth\Continent\Europe\Europe~South\Andorra\Counties~AndorraLa_Massana.secret.md)
+### [La_Massana.personal](/_personal/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/La_Massana.personal.md) 
+
+### [La_Massana.secret](/_secret/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/La_Massana.secret.md)
 

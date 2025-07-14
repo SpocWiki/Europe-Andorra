@@ -41,15 +41,17 @@ markerFolder: ./Sant_Julià_de_Lòria/
 
 ## Confidential Links & Embeds: 
 
-### [Sant_Julià_de_Lòria.public](/_public/\Earth\Continent\Europe\Europe~South\Andorra\Counties~AndorraSant_Julià_de_Lòria.public.md) 
+### [Sant_Julià_de_Lòria](/_Standards/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Sant_Julià_de_Lòria.md) 
 
-### [Sant_Julià_de_Lòria.internal](/_internal/\Earth\Continent\Europe\Europe~South\Andorra\Counties~AndorraSant_Julià_de_Lòria.internal.md) 
+### [Sant_Julià_de_Lòria.public](/_public/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Sant_Julià_de_Lòria.public.md) 
 
-### [Sant_Julià_de_Lòria.protect](/_protect/\Earth\Continent\Europe\Europe~South\Andorra\Counties~AndorraSant_Julià_de_Lòria.protect.md) 
+### [Sant_Julià_de_Lòria.internal](/_internal/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Sant_Julià_de_Lòria.internal.md) 
 
-### [Sant_Julià_de_Lòria.private](/_private/\Earth\Continent\Europe\Europe~South\Andorra\Counties~AndorraSant_Julià_de_Lòria.private.md) 
+### [Sant_Julià_de_Lòria.protect](/_protect/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Sant_Julià_de_Lòria.protect.md) 
 
-### [Sant_Julià_de_Lòria.personal](/_personal/\Earth\Continent\Europe\Europe~South\Andorra\Counties~AndorraSant_Julià_de_Lòria.personal.md) 
+### [Sant_Julià_de_Lòria.private](/_private/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Sant_Julià_de_Lòria.private.md) 
 
-### [Sant_Julià_de_Lòria.secret](/_secret/\Earth\Continent\Europe\Europe~South\Andorra\Counties~AndorraSant_Julià_de_Lòria.secret.md)
+### [Sant_Julià_de_Lòria.personal](/_personal/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Sant_Julià_de_Lòria.personal.md) 
+
+### [Sant_Julià_de_Lòria.secret](/_secret/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Sant_Julià_de_Lòria.secret.md)
 

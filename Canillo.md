@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Canillo.public](/_public/\Earth\Continent\Europe\Europe~South\AndorraCanillo.public.md) 
+### [Canillo](/_Standards/Earth/Continent/Europe/Europe~South/Andorra/Canillo.md) 
 
-### [Canillo.internal](/_internal/\Earth\Continent\Europe\Europe~South\AndorraCanillo.internal.md) 
+### [Canillo.public](/_public/Earth/Continent/Europe/Europe~South/Andorra/Canillo.public.md) 
 
-### [Canillo.protect](/_protect/\Earth\Continent\Europe\Europe~South\AndorraCanillo.protect.md) 
+### [Canillo.internal](/_internal/Earth/Continent/Europe/Europe~South/Andorra/Canillo.internal.md) 
 
-### [Canillo.private](/_private/\Earth\Continent\Europe\Europe~South\AndorraCanillo.private.md) 
+### [Canillo.protect](/_protect/Earth/Continent/Europe/Europe~South/Andorra/Canillo.protect.md) 
 
-### [Canillo.personal](/_personal/\Earth\Continent\Europe\Europe~South\AndorraCanillo.personal.md) 
+### [Canillo.private](/_private/Earth/Continent/Europe/Europe~South/Andorra/Canillo.private.md) 
 
-### [Canillo.secret](/_secret/\Earth\Continent\Europe\Europe~South\AndorraCanillo.secret.md)
+### [Canillo.personal](/_personal/Earth/Continent/Europe/Europe~South/Andorra/Canillo.personal.md) 
+
+### [Canillo.secret](/_secret/Earth/Continent/Europe/Europe~South/Andorra/Canillo.secret.md)
 
