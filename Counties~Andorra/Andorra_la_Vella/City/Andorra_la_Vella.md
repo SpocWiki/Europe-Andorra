@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Andorra/City/Andorra_la_Vella|Andorra_la_Vella]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Andorra/City/Andorra_la_Vella.public|Andorra_la_Vella.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Andorra/City/Andorra_la_Vella.internal|Andorra_la_Vella.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Andorra/City/Andorra_la_Vella.protect|Andorra_la_Vella.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Andorra/City/Andorra_la_Vella.private|Andorra_la_Vella.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Andorra/City/Andorra_la_Vella.personal|Andorra_la_Vella.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Andorra/City/Andorra_la_Vella.secret|Andorra_la_Vella.secret]] 
+
+### [Andorra_la_Vella.public](/_public/\Earth\Continent\Europe\Europe~South\Andorra\Counties~Andorra\Andorra_la_Vella\CityAndorra_la_Vella.public.md) 
+
+### [Andorra_la_Vella.internal](/_internal/\Earth\Continent\Europe\Europe~South\Andorra\Counties~Andorra\Andorra_la_Vella\CityAndorra_la_Vella.internal.md) 
+
+### [Andorra_la_Vella.protect](/_protect/\Earth\Continent\Europe\Europe~South\Andorra\Counties~Andorra\Andorra_la_Vella\CityAndorra_la_Vella.protect.md) 
+
+### [Andorra_la_Vella.private](/_private/\Earth\Continent\Europe\Europe~South\Andorra\Counties~Andorra\Andorra_la_Vella\CityAndorra_la_Vella.private.md) 
+
+### [Andorra_la_Vella.personal](/_personal/\Earth\Continent\Europe\Europe~South\Andorra\Counties~Andorra\Andorra_la_Vella\CityAndorra_la_Vella.personal.md) 
+
+### [Andorra_la_Vella.secret](/_secret/\Earth\Continent\Europe\Europe~South\Andorra\Counties~Andorra\Andorra_la_Vella\CityAndorra_la_Vella.secret.md)
+

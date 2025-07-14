@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Europe~South/Andorra/Ordino|Ordino]] 
-- [[../../../../../../_public/geo/Continent/Europe/Europe~South/Andorra/Ordino.public|Ordino.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Europe~South/Andorra/Ordino.internal|Ordino.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Europe~South/Andorra/Ordino.protect|Ordino.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Europe~South/Andorra/Ordino.private|Ordino.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Europe~South/Andorra/Ordino.personal|Ordino.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Europe~South/Andorra/Ordino.secret|Ordino.secret]] 
+
+### [Ordino.public](/_public/\Earth\Continent\Europe\Europe~South\AndorraOrdino.public.md) 
+
+### [Ordino.internal](/_internal/\Earth\Continent\Europe\Europe~South\AndorraOrdino.internal.md) 
+
+### [Ordino.protect](/_protect/\Earth\Continent\Europe\Europe~South\AndorraOrdino.protect.md) 
+
+### [Ordino.private](/_private/\Earth\Continent\Europe\Europe~South\AndorraOrdino.private.md) 
+
+### [Ordino.personal](/_personal/\Earth\Continent\Europe\Europe~South\AndorraOrdino.personal.md) 
+
+### [Ordino.secret](/_secret/\Earth\Continent\Europe\Europe~South\AndorraOrdino.secret.md)
+

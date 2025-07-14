@@ -128,12 +128,17 @@ Capital :: [[Andorra]]
 [has_place_latitude::42.5167] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~South/Andorra|Andorra]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~South/Andorra.public|Andorra.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~South/Andorra.internal|Andorra.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~South/Andorra.protect|Andorra.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~South/Andorra.private|Andorra.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~South/Andorra.personal|Andorra.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~South/Andorra.secret|Andorra.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~South\AndorraReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~South\AndorraReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~South\AndorraReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~South\AndorraReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~South\AndorraReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~South\AndorraReadMe.secret.md)
+

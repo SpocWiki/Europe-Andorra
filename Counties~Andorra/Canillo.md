@@ -40,11 +40,16 @@ markerFolder: ./Canillo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Andorra/Counties/Canillo|Canillo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Andorra/Counties/Canillo.public|Canillo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Andorra/Counties/Canillo.internal|Canillo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Andorra/Counties/Canillo.protect|Canillo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Andorra/Counties/Canillo.private|Canillo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Andorra/Counties/Canillo.personal|Canillo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Andorra/Counties/Canillo.secret|Canillo.secret]] 
+
+### [Canillo.public](/_public/\Earth\Continent\Europe\Europe~South\Andorra\Counties~AndorraCanillo.public.md) 
+
+### [Canillo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Andorra\Counties~AndorraCanillo.internal.md) 
+
+### [Canillo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Andorra\Counties~AndorraCanillo.protect.md) 
+
+### [Canillo.private](/_private/\Earth\Continent\Europe\Europe~South\Andorra\Counties~AndorraCanillo.private.md) 
+
+### [Canillo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Andorra\Counties~AndorraCanillo.personal.md) 
+
+### [Canillo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Andorra\Counties~AndorraCanillo.secret.md)
 

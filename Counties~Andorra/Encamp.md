@@ -40,11 +40,16 @@ markerFolder: ./Encamp/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Andorra/Counties/Encamp|Encamp]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Andorra/Counties/Encamp.public|Encamp.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Andorra/Counties/Encamp.internal|Encamp.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Andorra/Counties/Encamp.protect|Encamp.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Andorra/Counties/Encamp.private|Encamp.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Andorra/Counties/Encamp.personal|Encamp.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Andorra/Counties/Encamp.secret|Encamp.secret]] 
+
+### [Encamp.public](/_public/\Earth\Continent\Europe\Europe~South\Andorra\Counties~AndorraEncamp.public.md) 
+
+### [Encamp.internal](/_internal/\Earth\Continent\Europe\Europe~South\Andorra\Counties~AndorraEncamp.internal.md) 
+
+### [Encamp.protect](/_protect/\Earth\Continent\Europe\Europe~South\Andorra\Counties~AndorraEncamp.protect.md) 
+
+### [Encamp.private](/_private/\Earth\Continent\Europe\Europe~South\Andorra\Counties~AndorraEncamp.private.md) 
+
+### [Encamp.personal](/_personal/\Earth\Continent\Europe\Europe~South\Andorra\Counties~AndorraEncamp.personal.md) 
+
+### [Encamp.secret](/_secret/\Earth\Continent\Europe\Europe~South\Andorra\Counties~AndorraEncamp.secret.md)
 
