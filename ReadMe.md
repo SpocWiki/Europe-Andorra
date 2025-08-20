@@ -1,34 +1,35 @@
 ---
 location:
-- 42.5167
-- 1.51333
+  - 42.5167
+  - 1.51333
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Andorra
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Andorra
-- Andorre
-- أندورا
-- 安道尔
-- Андорра
-- the Principality of Andorra
-- el Principado de Andorra
+  - Andorra
+  - Andorre
+  - أندورا
+  - 安道尔
+  - Андорра
+  - the Principality of Andorra
+  - el Principado de Andorra
 Languages:
-- ca
+  - ca
 ---
 
 
