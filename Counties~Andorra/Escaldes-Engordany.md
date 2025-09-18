@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Escaldes-Engordany
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Escaldes-Engordany/
 markerFolder: ./Escaldes-Engordany/

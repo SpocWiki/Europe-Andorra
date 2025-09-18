@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Canillo
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Canillo/
 markerFolder: ./Canillo/

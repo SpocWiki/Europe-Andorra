@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Andorra_la_Vella
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Andorra_la_Vella/
 markerFolder: ./Andorra_la_Vella/

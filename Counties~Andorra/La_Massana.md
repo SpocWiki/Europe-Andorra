@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: La_Massana
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./La_Massana/
 markerFolder: ./La_Massana/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Sant_Julià_de_Lòria
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Sant_Julià_de_Lòria/
 markerFolder: ./Sant_Julià_de_Lòria/
