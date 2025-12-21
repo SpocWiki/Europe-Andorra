@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Andorra
+  - Andorre
+  - أندورا
+  - 安道尔
+  - Андорра
+  - the Principality of Andorra
+  - el Principado de Andorra
+  - ReadMe
 location:
   - 42.5167
   - 1.51333
@@ -14,20 +23,12 @@ cssclasses:
   - Country
 publish: true
 title: Andorra
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Andorra
-  - Andorre
-  - أندورا
-  - 安道尔
-  - Андорра
-  - the Principality of Andorra
-  - el Principado de Andorra
+publishDate: ''
+expiryDate: ''
 Languages:
   - ca
 ---

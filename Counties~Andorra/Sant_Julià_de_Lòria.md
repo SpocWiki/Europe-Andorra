@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Sant_Julià_de_Lòria
+  - Sant Julià de Lòria
 location:
   - 42.47
   - 1.5
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Sant_Julià_de_Lòria
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Sant_Julià_de_Lòria

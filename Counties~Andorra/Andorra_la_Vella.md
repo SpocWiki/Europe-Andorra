@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Andorra_la_Vella
+  - Andorra la Vella
 location:
   - 42.51
   - 1.51
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Andorra_la_Vella
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Andorra_la_Vella
