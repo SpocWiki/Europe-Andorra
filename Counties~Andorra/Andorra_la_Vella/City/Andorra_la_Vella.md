@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 28823
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 1.5
+dv_has_place_latitude: 42.5
+dv_name: Andorra la Vella
+dv_Country: "[[../../../../Andorra]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::1.5] 
-[has_place_latitude::42.5] 
-[name::Andorra la Vella] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Andorra]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Andorra_la_Vella](/_Standards/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Andorra_la_Vella/City/Andorra_la_Vella.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Andorra_la_Vella/City/Andorra_la_Vella|Andorra_la_Vella]] 
 
-### [Andorra_la_Vella.public](/_public/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Andorra_la_Vella/City/Andorra_la_Vella.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Andorra_la_Vella/City/Andorra_la_Vella.public|Andorra_la_Vella.public]] 
 
-### [Andorra_la_Vella.internal](/_internal/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Andorra_la_Vella/City/Andorra_la_Vella.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Andorra_la_Vella/City/Andorra_la_Vella.internal|Andorra_la_Vella.internal]] 
 
-### [Andorra_la_Vella.protect](/_protect/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Andorra_la_Vella/City/Andorra_la_Vella.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Andorra_la_Vella/City/Andorra_la_Vella.protect|Andorra_la_Vella.protect]] 
 
-### [Andorra_la_Vella.private](/_private/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Andorra_la_Vella/City/Andorra_la_Vella.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Andorra_la_Vella/City/Andorra_la_Vella.private|Andorra_la_Vella.private]] 
 
-### [Andorra_la_Vella.personal](/_personal/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Andorra_la_Vella/City/Andorra_la_Vella.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Andorra_la_Vella/City/Andorra_la_Vella.personal|Andorra_la_Vella.personal]] 
 
-### [Andorra_la_Vella.secret](/_secret/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Andorra_la_Vella/City/Andorra_la_Vella.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Andorra_la_Vella/City/Andorra_la_Vella.secret|Andorra_la_Vella.secret]] 
 

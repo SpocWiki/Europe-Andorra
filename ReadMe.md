@@ -23,87 +23,150 @@ cssclasses:
   - Country
 publish: true
 title: Andorra
-linkTitle: ''
-keywords: ''
-layout: ''
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate: ''
-expiryDate: ''
+publishDate: ""
+expiryDate: ""
 Languages:
   - ca
+dv_ISO4217-currency_alphabetic: EUR
+dv_ISO4217-currency_name: Euro
+dv_ISO4217-currency_numeric: 978
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: ANDORRA
+dv_Telephone: 376
+dv_Global: true
+dv_Global_Name: World
+dv_name: Andorra
+dv_name-en:
+  - Andorra
+  - Andorra
+dv_name-es: Andorra
+dv_name-fr: Andorre
+dv_name-cn: 安道尔
+dv_name-ar: أندورا
+dv_name-ru: Андорра
+dv_CLDR_display_name: Andorra
+dv_UNTERM_English: Andorra
+dv_UNTERM_English_Formal: the Principality of Andorra
+dv_UNTERM_Spanish_Formal: el Principado de Andorra
+dv_UNTERM_Spanish: Andorra
+dv_UNTERM_French: Andorre (l') [fém.]
+dv_UNTERM_Arabic: أندورا
+dv_UNTERM_Arabic_Formal: إمارة أندورا
+dv_UNTERM_Chinese: 安道尔
+dv_UNTERM_Chinese_Formal: 安道尔公国
+dv_UNTERM_French_Formal: la Principauté d'Andorre
+dv_UNTERM_Russian: Андорра
+dv_UNTERM_Russian_Formal: Княжество Андорра
+dv_Region_Name: "[[../../../Europe]]"
+dv_Intermediate_Region_Name: "[[ReadMe]]"
+dv_Sub-region_Name: "[[Southern Europe]]"
+dv_Region: 150
+dv_Sub-region: 39
+dv_Geoname-ID: 3041565
+dv_FIPS: AN
+dv_FIFA: AND
+dv_IOC: AND
+dv_MARC: an
+dv_GAUL: 7
+dv_ITU: AND
+dv_DS: AND
+dv_TLD: .ad
+dv_EDGAR: B6
+dv_M49: 20
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developed
+dv_ISO3166-1-numeric: 20
+dv_ISO2: AD
+dv_ISO3: AND
+dv_name-de: Andorra
+dv_Area-Total: 467
+dv_Area-Land: 450
+dv_Continent: "[[../../../Europe]]"
+dv_VehicleCode: AND
+dv_Capital: "[[../Andorra]]"
+dv_Alcohol-l: 15.5
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: 1.51333
+dv_has_place_latitude: 42.5167
+dv_developed_developing_countries: Developed
 ---
 
 
-[	ISO4217-currency_alphabetic	 :: EUR ] 
-[	ISO4217-currency_name	 :: Euro ] 
-[	ISO4217-currency_numeric	 :: 978 ] 
-[	ISO4217-currency_minor_unit	 :: 2 ] 
-[	ISO4217-currency_country_name	 :: ANDORRA ] 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
 
-[	Telephone	 :: 376 ] 
+Telephone = `=this.dv_Telephone` 
 
-[	Global	 :: True ] 
-[	Global_Name	 :: World ] 
+Global = `=this.dv_Global` 
+Global_Name = `=this.dv_Global_Name` 
 
-[	name	 :: Andorra ] 
+name = `=this.dv_name` 
 [	name-en	 :: Andorra ] 
-[	name-es	 :: Andorra ] 
-[	name-fr	 :: Andorre ] 
-[	name-cn	 :: 安道尔 ] 
-[	name-ar	 :: أندورا ] 
-[	name-ru	 :: Андорра ] 
+name-es = `=this.dv_name-es` 
+name-fr = `=this.dv_name-fr` 
+name-cn = `=this.dv_name-cn` 
+name-ar = `=this.dv_name-ar` 
+name-ru = `=this.dv_name-ru` 
 
-[	CLDR_display_name	 :: Andorra ] 
+CLDR_display_name = `=this.dv_CLDR_display_name` 
 
-[	UNTERM_English	 :: Andorra ] 
-[	UNTERM_English_Formal	 :: the Principality of Andorra ] 
-[	UNTERM_Spanish_Formal	 :: el Principado de Andorra ] 
-[	UNTERM_Spanish	 :: Andorra ] 
-[	UNTERM_French	 :: Andorre (l') [fém.] ] 
-[	UNTERM_Arabic	 :: أندورا ] 
-[	UNTERM_Arabic_Formal	 :: إمارة أندورا ] 
-[	UNTERM_Chinese	 :: 安道尔 ] 
-[	UNTERM_Chinese_Formal	 :: 安道尔公国 ] 
-[	UNTERM_French_Formal	 :: la Principauté d'Andorre ] 
-[	UNTERM_Russian	 :: Андорра ] 
-[	UNTERM_Russian_Formal	 :: Княжество Андорра ] 
+UNTERM_English = `=this.dv_UNTERM_English` 
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal` 
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal` 
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish` 
+UNTERM_French = `=this.dv_UNTERM_French` ] 
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic` 
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal` 
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese` 
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal` 
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal` 
+UNTERM_Russian = `=this.dv_UNTERM_Russian` 
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal` 
 
-Region_Name ::  [[Europe]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Southern Europe]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 150 ] 
-[	Intermediate_Region	 ::  ] 
-[	Sub-region	 :: 39 ] 
+Region = `=this.dv_Region` 
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region` 
 
-[	Geoname-ID	 :: 3041565 ] 
-[	FIPS	 :: AN ] 
-[	FIFA	 :: AND ] 
-[	IOC	 :: AND ] 
-[	MARC	 :: an ] 
-[	GAUL	 :: 7 ] 
+Geoname-ID = `=this.dv_Geoname-ID` 
+FIPS = `=this.dv_FIPS` 
+FIFA = `=this.dv_FIFA` 
+IOC = `=this.dv_IOC` 
+MARC = `=this.dv_MARC` 
+GAUL = `=this.dv_GAUL` 
 [	WMO	 ::  ] 
-[	ITU	 :: AND ] 
-[	DS	 :: AND ] 
-[	TLD	 :: .ad ] 
-[	EDGAR	 :: B6 ] 
-[	M49	 :: 20 ] 
+ITU = `=this.dv_ITU` 
+DS = `=this.dv_DS` 
+TLD = `=this.dv_TLD` 
+EDGAR = `=this.dv_EDGAR` 
+M49 = `=this.dv_M49` 
 
-[	is_independent	 :: Yes ] 
-[	Developed_/Developing_Countries	 :: Developed ] 
+is_independent = `=this.dv_is_independent` 
+developed_developing_countries = `=this.dv_developed_developing_countries` 
 [	Land_Locked_Developing_Countries	 ::  ] 
 [	Least_Developed_Countries	 ::  ] 
-[	Small_Island_Developing_States	 ::  ] 
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 020 ] 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
 
 
 
 SpocWebEntityId: 26825
 isDeleted: false
 confidential: public
-[ISO2::AD] 
-[ISO3::AND] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 ```leaflet
 id: Andorra
 zoomFeatures: true 
@@ -114,35 +177,35 @@ markerFolder: .//
 ```
 
 [name-en::Andorra] 
-[name-de::Andorra] 
+name-de = `=this.dv_name-de` 
 ![[Coat_of_arms_of_Andorra.svg|350]] 
 ![[Flag_of_Andorra.svg|350]] 
-[Area-Total::467] 
-[Area-Land::450] 
-Continent :: [[Europe]]  
-[VehicleCode::AND] 
-Capital :: [[Andorra]]  
-[Alcohol-l::15.5] 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
+Continent = `=this.dv_Continent`
+VehicleCode = `=this.dv_VehicleCode` 
+Capital = `=this.dv_Capital`
+Alcohol-l = `=this.dv_Alcohol-l` 
 [Language-Id::] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::1.51333] 
-[has_place_latitude::42.5167] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe](/_Standards/Earth/Continent/Europe/Europe~South/Andorra/ReadMe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Andorra/ReadMe|ReadMe]] 
 
-### [ReadMe.public](/_public/Earth/Continent/Europe/Europe~South/Andorra/ReadMe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Andorra/ReadMe.public|ReadMe.public]] 
 
-### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~South/Andorra/ReadMe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Andorra/ReadMe.internal|ReadMe.internal]] 
 
-### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~South/Andorra/ReadMe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Andorra/ReadMe.protect|ReadMe.protect]] 
 
-### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~South/Andorra/ReadMe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Andorra/ReadMe.private|ReadMe.private]] 
 
-### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~South/Andorra/ReadMe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Andorra/ReadMe.personal|ReadMe.personal]] 
 
-### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~South/Andorra/ReadMe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Andorra/ReadMe.secret|ReadMe.secret]] 
 

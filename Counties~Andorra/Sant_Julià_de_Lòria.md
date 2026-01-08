@@ -41,17 +41,17 @@ markerFolder: ./Sant_Julià_de_Lòria/
 
 ## Confidential Links & Embeds: 
 
-### [Sant_Julià_de_Lòria](/_Standards/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Sant_Julià_de_Lòria.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Sant_Julià_de_Lòria|Sant_Julià_de_Lòria]] 
 
-### [Sant_Julià_de_Lòria.public](/_public/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Sant_Julià_de_Lòria.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Sant_Julià_de_Lòria.public|Sant_Julià_de_Lòria.public]] 
 
-### [Sant_Julià_de_Lòria.internal](/_internal/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Sant_Julià_de_Lòria.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Sant_Julià_de_Lòria.internal|Sant_Julià_de_Lòria.internal]] 
 
-### [Sant_Julià_de_Lòria.protect](/_protect/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Sant_Julià_de_Lòria.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Sant_Julià_de_Lòria.protect|Sant_Julià_de_Lòria.protect]] 
 
-### [Sant_Julià_de_Lòria.private](/_private/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Sant_Julià_de_Lòria.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Sant_Julià_de_Lòria.private|Sant_Julià_de_Lòria.private]] 
 
-### [Sant_Julià_de_Lòria.personal](/_personal/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Sant_Julià_de_Lòria.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Sant_Julià_de_Lòria.personal|Sant_Julià_de_Lòria.personal]] 
 
-### [Sant_Julià_de_Lòria.secret](/_secret/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Sant_Julià_de_Lòria.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Sant_Julià_de_Lòria.secret|Sant_Julià_de_Lòria.secret]] 
 

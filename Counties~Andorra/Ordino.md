@@ -40,17 +40,17 @@ markerFolder: ./Ordino/
 
 ## Confidential Links & Embeds: 
 
-### [Ordino](/_Standards/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Ordino.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Ordino|Ordino]] 
 
-### [Ordino.public](/_public/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Ordino.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Ordino.public|Ordino.public]] 
 
-### [Ordino.internal](/_internal/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Ordino.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Ordino.internal|Ordino.internal]] 
 
-### [Ordino.protect](/_protect/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Ordino.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Ordino.protect|Ordino.protect]] 
 
-### [Ordino.private](/_private/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Ordino.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Ordino.private|Ordino.private]] 
 
-### [Ordino.personal](/_personal/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Ordino.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Ordino.personal|Ordino.personal]] 
 
-### [Ordino.secret](/_secret/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Ordino.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Ordino.secret|Ordino.secret]] 
 

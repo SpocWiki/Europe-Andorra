@@ -41,17 +41,17 @@ markerFolder: ./Andorra_la_Vella/
 
 ## Confidential Links & Embeds: 
 
-### [Andorra_la_Vella](/_Standards/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Andorra_la_Vella.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Andorra_la_Vella|Andorra_la_Vella]] 
 
-### [Andorra_la_Vella.public](/_public/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Andorra_la_Vella.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Andorra_la_Vella.public|Andorra_la_Vella.public]] 
 
-### [Andorra_la_Vella.internal](/_internal/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Andorra_la_Vella.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Andorra_la_Vella.internal|Andorra_la_Vella.internal]] 
 
-### [Andorra_la_Vella.protect](/_protect/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Andorra_la_Vella.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Andorra_la_Vella.protect|Andorra_la_Vella.protect]] 
 
-### [Andorra_la_Vella.private](/_private/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Andorra_la_Vella.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Andorra_la_Vella.private|Andorra_la_Vella.private]] 
 
-### [Andorra_la_Vella.personal](/_personal/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Andorra_la_Vella.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Andorra_la_Vella.personal|Andorra_la_Vella.personal]] 
 
-### [Andorra_la_Vella.secret](/_secret/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Andorra_la_Vella.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Andorra_la_Vella.secret|Andorra_la_Vella.secret]] 
 

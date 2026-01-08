@@ -40,17 +40,17 @@ markerFolder: ./Escaldes-Engordany/
 
 ## Confidential Links & Embeds: 
 
-### [Escaldes-Engordany](/_Standards/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Escaldes-Engordany.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Escaldes-Engordany|Escaldes-Engordany]] 
 
-### [Escaldes-Engordany.public](/_public/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Escaldes-Engordany.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Escaldes-Engordany.public|Escaldes-Engordany.public]] 
 
-### [Escaldes-Engordany.internal](/_internal/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Escaldes-Engordany.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Escaldes-Engordany.internal|Escaldes-Engordany.internal]] 
 
-### [Escaldes-Engordany.protect](/_protect/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Escaldes-Engordany.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Escaldes-Engordany.protect|Escaldes-Engordany.protect]] 
 
-### [Escaldes-Engordany.private](/_private/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Escaldes-Engordany.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Escaldes-Engordany.private|Escaldes-Engordany.private]] 
 
-### [Escaldes-Engordany.personal](/_personal/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Escaldes-Engordany.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Escaldes-Engordany.personal|Escaldes-Engordany.personal]] 
 
-### [Escaldes-Engordany.secret](/_secret/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Escaldes-Engordany.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Escaldes-Engordany.secret|Escaldes-Engordany.secret]] 
 
