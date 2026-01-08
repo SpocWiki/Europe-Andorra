@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.5
 dv_has_place_latitude: 42.5
-dv_name: Andorra la Vella
+dv_has_name_: Andorra la Vella
 dv_Country: "[[../../../../Andorra]]"
 ---
 #is_a_/Place  

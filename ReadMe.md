@@ -39,15 +39,13 @@ dv_ISO4217-currency_country_name: ANDORRA
 dv_Telephone: 376
 dv_Global: true
 dv_Global_Name: World
-dv_name: Andorra
-dv_name-en:
-  - Andorra
-  - Andorra
-dv_name-es: Andorra
-dv_name-fr: Andorre
-dv_name-cn: 安道尔
-dv_name-ar: أندورا
-dv_name-ru: Андорра
+dv_has_name_: Andorra
+dv_has_name_en: Andorra
+dv_has_name_es: Andorra
+dv_has_name_fr: Andorre
+dv_has_name_cn: 安道尔
+dv_has_name_ar: أندورا
+dv_has_name_ru: Андорра
 dv_CLDR_display_name: Andorra
 dv_UNTERM_English: Andorra
 dv_UNTERM_English_Formal: the Principality of Andorra
@@ -83,7 +81,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 20
 dv_ISO2: AD
 dv_ISO3: AND
-dv_name-de: Andorra
+dv_has_name_de: Andorra
 dv_Area-Total: 467
 dv_Area-Land: 450
 dv_Continent: "[[../../../Europe]]"
@@ -109,12 +107,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Andorra ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Andorra ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -176,8 +174,8 @@ geojsonFolder: .//
 markerFolder: .//
 ```
 
-[name-en::Andorra] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Andorra] 
+has_name_de = `=this.dv_has_name_de` 
 ![[Coat_of_arms_of_Andorra.svg|350]] 
 ![[Flag_of_Andorra.svg|350]] 
 Area-Total = `=this.dv_Area-Total` 
