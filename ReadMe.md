@@ -343,7 +343,7 @@ dv_UNTERM_Chinese_Formal: 安道尔公国
 dv_UNTERM_French_Formal: la Principauté d'Andorre
 dv_UNTERM_Russian: Андорра
 dv_UNTERM_Russian_Formal: Княжество Андорра
-dv_Region_Name: '[[../../Europe|Europe]]'
+dv_Region_Name: '[[../../../Europe|Europe]]'
 dv_Intermediate_Region_Name: '[[Andorra]]'
 dv_Sub-region_Name: '[[Southern Europe]]'
 dv_Region: 150
@@ -367,7 +367,7 @@ dv_ISO2: AD
 dv_ISO3: AND
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Andorra,228|WD~Andorra,228]]'
+  - '[[../../../../../WikiData/WD~Andorra,228|WD~Andorra,228]]'
   - '[[/_Standards/Earth/Continent/Europe/Europe~South/Andorra|Andorra]]'
   - '[[/_public/Earth/Continent/Europe/Europe~South/Andorra.public|Andorra.public]]'
   - '[[/_internal/Earth/Continent/Europe/Europe~South/Andorra.internal|Andorra.internal]]'
@@ -378,17 +378,17 @@ dv_is_:
 dv_has_name_de: Andorra
 dv_Area-Total: 467
 dv_Area-Land: 450
-dv_has_place_continent: '[[../../Europe|Europe]]'
+dv_has_place_continent: '[[../../../Europe|Europe]]'
 dv_VehicleCode: AND
 dv_Capital: '[[Andorra]]'
 dv_Alcohol-l: 15.5
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 1.51333
 dv_has_place_latitude: 42.5167
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Andorra
 dv_developed_developing_countries: Developed
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Andorra,228|WD~Andorra,228]]'
+- '[[../../../../../WikiData/WD~Andorra,228|WD~Andorra,228]]'
 - '[[/_Standards/Earth/Continent/Europe/Europe~South/Andorra|Andorra]]'
 - '[[/_public/Earth/Continent/Europe/Europe~South/Andorra.public|Andorra.public]]'
 - '[[/_internal/Earth/Continent/Europe/Europe~South/Andorra.internal|Andorra.internal]]'
@@ -685,7 +685,7 @@ coat_of_arms: '[[/_Standards/WikiData/WD~coat_of_arms_of_Andorra,170553|WD~coat_
 anthem: '[[/_Standards/WikiData/WD~El_gran_Carlemany,199506|WD~El_gran_Carlemany,199506]]'
 part_of: '[[/_Standards/WikiData/WD~Catalan_Countries,234963|WD~Catalan_Countries,234963]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
 - '[[/_Standards/WikiData/WD~Pax_Leksikon,3351707|WD~Pax_Leksikon,3351707]]'
@@ -861,7 +861,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Andorra/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -881,7 +881,7 @@ defaultZoom: 7
 
 ```leaflet
 id: Andorra_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
