@@ -4,6 +4,8 @@ aliases:
 location:
   - 42.6
   - 1.5
+  - 42.57
+  - 1.52
 type: geo-Region
 title: Ordino
 license: CC BY-SA 4.0
@@ -14,6 +16,7 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
+  - geo/City
 Languages:
   - de
 cssclasses:
@@ -24,6 +27,16 @@ keywords: ''
 layout: ''
 publishDate: ''
 expiryDate: ''
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
+SpocWebEntityId: 33127
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: 1.52
+dv_has_place_latitude: 42.57
+dv_has_name: Ordino
+dv_Country: "[[../Andorra]]"
 ---
 
 # Ordino
@@ -54,3 +67,23 @@ markerFolder: ./Ordino/
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Andorra/Counties~Andorra/Ordino.secret|Ordino.secret]] 
 
+
+## Merged from `_Standards/Earth/Continent/Europe/Europe~South/Andorra/Ordino.md`
+
+#is_a_/Place
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
+name = `=this.dv_has_name`
+State ::
+Country = `=this.dv_Country`
+[StateId::]
+[Population::]
+
+```leaflet
+id: Ordino
+coordinates: [[Ordino]]
+markerFile: [[Ordino]]
+defaultZoom: 11
+maxZoom: 18
+```
